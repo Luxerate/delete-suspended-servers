@@ -1,0 +1,20 @@
+{
+  "name": "Pterodactyl Server Deleter",
+  "version": "1.0.0",
+  "description": "Script that deletes all suspended servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "nodeactyl"
+  ],
+  "author": "Luxerate",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "jspteroapi": "^1.11.1",
+	"colors": "^1.4.0"
+  }
+}
